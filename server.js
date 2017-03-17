@@ -8,7 +8,7 @@ var config = {
     database: 'sarvesh9',
     host: 'db.imad.hasura-app.io',
     port: '5432',
-    password: '	db-sarvesh9-50143', 
+    password: 'db-sarvesh9-50143', 
 };
 
 
